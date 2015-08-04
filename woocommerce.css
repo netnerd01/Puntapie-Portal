@@ -235,7 +235,7 @@ p.demo_store {
 .woocommerce #content div.product div.images img,
 .woocommerce-page #content div.product div.images img {
   display: block;
-  width: 100%;
+  width: auto;
   height: auto;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -574,7 +574,7 @@ p.demo_store {
 }
 .woocommerce ul.products li.product a img,
 .woocommerce-page ul.products li.product a img {
-  width: 100%;
+  width: auto;
   height: auto;
   display: block;
 }
