@@ -575,7 +575,7 @@ p.demo_store {
 .woocommerce ul.products li.product a img,
 .woocommerce-page ul.products li.product a img {
   width: auto;
-  height: auto;
+  height: 48%;
   display: block;
 }
 .woocommerce ul.products li.product a:hover img,
@@ -2855,7 +2855,7 @@ p.demo_store {
   -ms-flex: none;
   -webkit-flex: none;
   flex: none;
-  width: 33.3%;
+  width: 25%;
   margin: 0 0 35px 0 !important;
   padding-left: 35px !important;
   -moz-box-sizing: border-box;
